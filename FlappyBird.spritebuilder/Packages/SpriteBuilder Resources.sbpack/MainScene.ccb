@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>14</integer>
+	<integer>15</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -151,7 +151,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>13</integer>
+				<integer>14</integer>
 				<key>baseClass</key>
 				<string>CCNode</string>
 				<key>children</key>
@@ -219,13 +219,15 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>794.35418701171875</real>
-							<real>638.64288330078125</real>
+							<real>1.1699999570846558</real>
+							<real>1.1699999570846558</real>
 							<false/>
 							<integer>0</integer>
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
