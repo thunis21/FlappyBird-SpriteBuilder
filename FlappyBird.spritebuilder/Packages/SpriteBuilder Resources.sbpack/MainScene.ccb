@@ -181,8 +181,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>0.0</real>
-							<real>0.0</real>
+							<real>3</real>
+							<real>17</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -219,15 +219,13 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>17.377592086791992</real>
-							<real>45.726757049560547</real>
+							<real>794.35418701171875</real>
+							<real>638.64288330078125</real>
 							<false/>
 							<integer>0</integer>
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
