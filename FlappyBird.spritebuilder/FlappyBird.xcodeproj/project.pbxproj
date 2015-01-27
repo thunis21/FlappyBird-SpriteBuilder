@@ -168,8 +168,8 @@
 				BCF66F7919563563004691FD /* MainScene.m */,
 				BCF66F7A19563563004691FD /* Obstacle.h */,
 				BCF66F7B19563563004691FD /* Obstacle.m */,
-				B737893D1807617C0076A88C /* AppDelegate.h */,
 				B737893E1807617C0076A88C /* AppDelegate.m */,
+				B737893D1807617C0076A88C /* AppDelegate.h */,
 			);
 			name = Source;
 			sourceTree = "<group>";
